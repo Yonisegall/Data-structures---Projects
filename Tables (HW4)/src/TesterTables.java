@@ -203,7 +203,7 @@ import assignment4.*;
  * This is a testing framework. Use it extensively to verify that your code is working
  * properly.
  */
-public class Tester {
+public class TesterTables {
 
     private static boolean testPassed = true;
     private static int testNum = 0;
